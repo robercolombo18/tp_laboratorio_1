@@ -1,10 +1,28 @@
 # depslib dependency file v1.0
 1554321087 source:c:\users\cuent\onedrive\escritorio\tp_laboratorio1\funciones.c
 
-1554321662 source:c:\users\cuent\onedrive\escritorio\tp_laboratorio1\main.c
+1554489959 source:c:\users\cuent\onedrive\escritorio\tp_laboratorio1\main.c
 	<stdio.h>
 	<stdlib.h>
 	"funciones.h"
 
 1554320285 c:\users\cuent\onedrive\escritorio\tp_laboratorio1\funciones.h
+
+1554321087 source:c:\users\cuent\onedrive\escritorio\programacion1-guiadeejercicios-pdfs-tps\mis tps\tp_laboratorio1\funciones.c
+
+1554489959 source:c:\users\cuent\onedrive\escritorio\programacion1-guiadeejercicios-pdfs-tps\mis tps\tp_laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554320285 c:\users\cuent\onedrive\escritorio\programacion1-guiadeejercicios-pdfs-tps\mis tps\tp_laboratorio1\funciones.h
+
+1554321087 source:c:\users\cuent\onedrive\escritorio\tp_laboratorio_1\tp_laboratorio1\funciones.c
+
+1554489959 source:c:\users\cuent\onedrive\escritorio\tp_laboratorio_1\tp_laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554320285 c:\users\cuent\onedrive\escritorio\tp_laboratorio_1\tp_laboratorio1\funciones.h
 
